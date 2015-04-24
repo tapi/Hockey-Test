@@ -1,0 +1,20 @@
+PODS:
+  - HockeySDK (3.6.3)
+
+DEPENDENCIES:
+  - HockeySDK (from `https://github.com/bitstadium/HockeySDK-iOS.git`, branch `develop`)
+
+EXTERNAL SOURCES:
+  HockeySDK:
+    :branch: develop
+    :git: https://github.com/bitstadium/HockeySDK-iOS.git
+
+CHECKOUT OPTIONS:
+  HockeySDK:
+    :commit: a4f245a58870a75b232609705dd364c731861e44
+    :git: https://github.com/bitstadium/HockeySDK-iOS.git
+
+SPEC CHECKSUMS:
+  HockeySDK: 39c7f926b9e5341f3dd2d9af12cf58681b5ee1b8
+
+COCOAPODS: 0.36.4
